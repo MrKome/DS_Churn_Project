@@ -1,4 +1,4 @@
-# Telco-Customer-Churn-Prediction
+# Customer Churn Prediction
 
 This is the main read me file which contains all the information about the project that has been created for predicting customer churn. 
 
